@@ -1,0 +1,10 @@
+__pycache__/
+.idea/
+.google-cookie
+debug.log
+games.db
+credentials.json
+what we can do more.txt
+token.json
+token.pickle
+try.py

@@ -1,0 +1,61 @@
+This is just a example of "How you can give commands"
+
+like for example  there is a commnad "play music" so you can say that would you "play some music for me" or the alternative of it like "I would like to listen some musics".
+
+But not all alternative will work.
+
+1) Search Mode/ search something for me/
+
+2) Wikipedia (your search)
+
+3) Where am i?
+
+4) Take a note / Make a note
+
+5) Capture my screen / Take a screen shot
+
+6) Ask him his name.
+
+7) Open -   youtube,google,file explorer, command prompt, chrome, etc.
+
+8) Open google search ---------
+
+9) find location of (city/country name)
+
+10) What is my exact/current location
+
+11) play music
+
+12) what is the date/ time
+
+13) suggest me a password/ password suggestion / i want a password
+
+14) voice reocorder/ record my voice
+
+15) open text to speech/ convert my notes to speech
+
+16) exit/ quit/ shutdown/ goodbye Dork
+
+17) stop the flow/execution/process/listening 
+
+18) current temperature
+
+19) Voice Calculator
+
+20) tell me some jokes
+
+21) play (song name) on youtube
+
+22) search for (topic you want to search for)
+
+23) who is (person name)
+
+24) what is meant by (topic you want definition for)
+
+25) take a photo/ take a selfie
+
+26) open bluetooth/ send some files through bluetooth
+
+27) weather report
+
+28) what is the capital of (country name)
