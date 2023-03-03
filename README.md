@@ -14,3 +14,12 @@ The Furthur Developments would include:
 2. Changing it to a chat and voice bot
 
 3. Creating a app based GUI
+
+
+Resources and Ideas:
+
+1. Tech with Time
+
+2. Vishal Patil
+
+3. NeuralNine
